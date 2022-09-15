@@ -1,0 +1,32 @@
+body{
+    background-image: url(https://images8.alphacoders.com/860/860215.jpg);
+}
+
+  
+  .playlist-container {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .song-id {
+    width: 10%;
+  }
+  
+  .list-item {
+    cursor: pointer;
+    border: 1px solid rgb(60, 147, 188);
+  }
+  
+  .selected {
+    background-color: rgb(63, 176, 225);
+  }
+  
+  
+  .footer-btns {
+    padding-block: 0.5rem;
+  }
+
+  .footer {
+    color: rgb(64, 166, 221);
+    text-shadow: 0 0 2em rgb(0, 172, 0), 0 0 1em green,
+  }
